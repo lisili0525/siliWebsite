@@ -9,8 +9,8 @@ export default function ExperiencePage() {
     <>
       <PageIntro
         eyebrow="Experience"
-        title="Where I have worked."
-        description="A concise timeline of the roles, teams, and responsibilities that shaped your experience."
+        title="Research and engineering experience."
+        description="Applied machine learning work focused on biomedical data, experimental evaluation, and reliable research software."
       />
       <ol className="timeline">
         {experiences.map((experience) => (

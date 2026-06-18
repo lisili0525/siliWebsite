@@ -10,8 +10,8 @@ export default function ProjectsPage() {
     <>
       <PageIntro
         eyebrow="Projects"
-        title="Selected work and experiments."
-        description="Replace these placeholders with projects that show how you think, build, and create impact."
+        title="Selected software and research projects."
+        description="Work spanning full-stack development, numerical simulation, and machine learning for biomedical data."
       />
       <div className="card-grid">
         {projects.map((project) => (

@@ -10,8 +10,8 @@ export default function ContactPage() {
     <>
       <PageIntro
         eyebrow="Contact"
-        title="Let us start a conversation."
-        description="Replace the placeholder email and profile URLs before sharing your portfolio publicly."
+        title="Let us connect."
+        description="Reach out by email or explore my current work on GitHub."
       />
       <section className="contact-panel">
         <div>

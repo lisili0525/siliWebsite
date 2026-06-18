@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <section className="hero">
         <p className="eyebrow">Hello, I am {siteConfig.name}</p>
-        <h1>I create thoughtful digital experiences.</h1>
+        <h1>I build software across web, machine learning, and scientific computing.</h1>
         <p className="lede">{siteConfig.description}</p>
         <div className="button-row">
           <Link className="button button-primary" href="/projects">
@@ -24,7 +24,7 @@ export default function Home() {
         <div className="section-heading">
           <div>
             <p className="eyebrow">Selected work</p>
-            <h2>A project worth highlighting</h2>
+            <h2>Recent technical work</h2>
           </div>
           <Link href="/projects">See all projects</Link>
         </div>
